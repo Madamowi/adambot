@@ -1,5 +1,4 @@
 slackbot
-re
 requests>=2.4.0
 websocket-client>=0.22.0
 slacker>=0.5.5
