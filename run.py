@@ -1,4 +1,3 @@
-import os
 from slackbot.bot import Bot
 
 BOT_NAME = 'adambot'
