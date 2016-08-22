@@ -18,7 +18,7 @@ def love(message):
 @listen_to('Can someone help me?')
 def help(message):
     # Message is replied to the sender (prefixed with @user)
-    message.reply('Yes, I can!')
+    message.reply('Yes, I do!')
 
     # Message is sent on the channel
     # message.send('I can help everybody!')
